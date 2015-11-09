@@ -1,0 +1,98 @@
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll.config
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.pdb
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\EntityFramework.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\WebGrease.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\EntityFramework.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.pdb
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAssemblyReference.cache
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\AutoMapper.dll
+C:\Users\OI\Documents\SVN\頑石svn posp\trunk\Proj\WebAPIDemo\WebAPIDemo\bin\AutoMapper.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll.config
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.pdb
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\AutoMapper.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\EntityFramework.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\WebGrease.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\AutoMapper.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\EntityFramework.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.pdb
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAssemblyReference.cache
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
+C:\Users\OI\Documents\GIT\EFQuestion\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
